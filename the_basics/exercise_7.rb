@@ -1,0 +1,1 @@
+puts "The error message is likely saying that the incorrect closing bracket has been used (curved bracket as opposed to curly bracket)."
