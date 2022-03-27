@@ -1,4 +1,3 @@
-#Exercise 2
 puts "How old are you?"
 
 age = gets.chomp
